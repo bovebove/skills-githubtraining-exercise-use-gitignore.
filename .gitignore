@@ -1,9 +1,6 @@
-node_modules/
-
 # User-specific files - Ignore all files starting with "z" or called ".env"
 z*
-*.env
+.env
 
 # Build results - Ignore all files in the folder artifacts
-artifacts/
-
+/artifacts/
